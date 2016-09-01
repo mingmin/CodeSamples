@@ -1,2 +1,0 @@
-
-A FilterIterator is an Iterator that can be used to wrap an existing iterator but skip all values that do not satisy a specified criteria.

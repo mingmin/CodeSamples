@@ -1,7 +1,4 @@
-/**
- * PQS Problem Set 4
- */
-package edu.nyu.pqs.filteriterator;
+package filteriterator;
 
 /**
  * Criteria implementation AND operation.
